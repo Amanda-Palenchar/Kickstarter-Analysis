@@ -9,14 +9,16 @@ The Kickstarter data set provides data for various types of entertainment includ
 
 ### Analysis of Outcomes Based on Launch Date
 The graph below depicts the outcomes of theater Kickstarter campaigns by month of the year. The number of successful campaings is shown by the blue line and has the widest range of in outcomes, from 37 to 111 successful performances depending on the month. Failed campaigns, shown in orange, remain in a much shorter range, from 33 failed campaigns to 50 failed campaigns depending on the month. Canceled campaigns remains consistently much lower and constant than both successful and failed campaigns with results showing less than 7 failed campaigns each month (depicted in gray).
-ADD IMAGE HERE
+
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The graph below depicts the outcomes of play campaigns based on their fundraising goals. This is shown as a percentage of the total. There are a few quantitative outcomes based on this data: 
 - There were no cancelled plays for any goal range, so the percentage of plays that were canceled at any goal range remains 0%. 
 - The percentage of successful plays declines as fundraising goals increase, except for the range from $35,000 to $45,000. There is also a small uptick from 0% to 13% from $45,000-$50,000 to $50,000+. However, it is important to point out the ranges where there was an uptick in successful campaigns had far few campaigns than ranges at a lower goal (<$24,999).
 - Because the percentage of cancelled plays is 0% at all goal ranges, the percentage of failed plays follows the inverse of successful plays. That is to say that the percentage of failed plays increases as fundraising goals increase except for the fundraising goal ranges listed in the previous bullet point.
-ADD IMAGE HERE  
+
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 There are a few challenges with the specifity of the data that could have been mitigated given more information about Louise's play, **Fever**, or more specific analysis of the Kickstarter data set. Without being given the specific date of Louise's launch or her fundraising goals, we cannot draw a full conclusion about whether her specific data points fell in line with what we would expect based on trends. For example, we do not know when she launched her play or her fundraising goal.
